@@ -1,0 +1,59 @@
+<html>
+  <head></head>
+  <body>
+    <div id=top>
+      <header>
+        <a id='logo' href="/">LOGO</a>
+        <nav id='main'></nav>
+        <li>
+        <a href="/">HOME</a>
+        </li>
+        <li>
+          <a href="">About Me</a>
+        </li>
+        <li>
+          <a href=""> Education</a>
+        </li>
+        </nav>
+      <form>
+        <div>
+          <input type='search' 
+                 placeholder="search">
+          <input type='submit' value='search' class='button'>
+        </div>
+      </form>
+      </header>
+    </div>
+  <div id='mainpicture'>
+    <h1 id='title'>
+      James Thompson
+    </h1>
+    <p id='paragraph'>This is my about me paragraph</p>
+    <a href="">read more about me here</a>
+  </div>
+  <div id='paragraph2'>
+    <h5 id 'ptitle2'> My services</h5>
+    <p id='paragraph2body'> This is where i talk about work skills that i can perform </p>
+    <a href="google.com">learn what they mean</a>
+  </div>
+  <div id='paragraph3'>
+    <h5 id='ptitle3'>My hobbies</h5>
+    <p id='paragraph3'>Talk about interests</p>
+  </div>
+       <div id='footer'>
+    <nav>
+      <ul>
+        <li>
+          <a href="">Home</a>
+        </li>
+        <li>
+          <a href="">Company</a>
+        </li>
+        <li id="copyright">Copyright@2015
+        </li>
+      </ul>
+    </nav>
+       </div>
+  </body>
+  
+</html>
